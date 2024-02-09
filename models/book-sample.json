@@ -1,0 +1,74 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "QYb0Ob9cqD4C",
+      "etag": "/cOiKVcl0IY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QYb0Ob9cqD4C",
+      "volumeInfo": {
+        "title": "Start Where You Are",
+        "subtitle": "Life Lessons in Getting from Where You Are to Where You Want to Be",
+        "authors": ["Chris Gardner", "Mim E. Rivas"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-05-12",
+        "description": "Ever since the story of his transformation from homeless, single and struggling father to millionaire became known the world over, Chris Gardner --whose life story both inspired the movie The Pursuit of Happyness and became a #1 New York Times bestseller by the same name--has been inundated with two questions: “How Did You Do It” and “How Can I Do it Too?” Gardner’s power-packed, transformational reply is the basis of this long-anticipated book. As a departure from standard self-help tomes that promise overnight riches and exclusive secrets for success, Gardner avoids any tilt toward magical thinking by staying with real issues and solutions impacting individuals in all walks of life. If you’ve had the rug pulled out from under you, or have been dealing with the loss of a home, a job, a health or financial crisis, or simply can’t find the motivation to pursue new challenges, Start Where You Are abounds with life lessons that offer hope and provide a road map for starting anew. This is also the book for anyone ready to launch a personal, professional undertaking, or break generational cycles that hem in their potential. Taking stock of his own credos, including “The Cavalry Ain’t Coming,” “Find Your Button,” and “Seek the Furthest Star”-- Gardner’s 44 life lessons are earthy, soulful, and always accessible. With an array of stories from the author’s own life, as well as from those he has known or admired, both famous and not, Start Where You Are has arrived just in time to embolden and encourage all of us, even in our era of great global change, reminding us of the infinite resources we already have in our collective pursuit of happyness, and spurring us on in only one direction - forward!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061537110"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "006153711X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": ["Self-Help"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QYb0Ob9cqD4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QYb0Ob9cqD4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ca/books?id=QYb0Ob9cqD4C&dq=isbn:9780061537110&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ca/books?id=QYb0Ob9cqD4C&dq=isbn:9780061537110&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Start_Where_You_Are.html?hl=&id=QYb0Ob9cqD4C"
+      },
+      "saleInfo": {
+        "country": "CA",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CA",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QYb0Ob9cqD4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ever since the story of his transformation from homeless, single and struggling father to millionaire became known the world over, Chris Gardner --whose life story both inspired the movie The Pursuit of Happyness and became a #1 New York ..."
+      }
+    }
+  ]
+}
