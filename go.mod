@@ -1,6 +1,6 @@
 module tsundoku
 
-go 1.17
+go 1.22
 
 require (
 	github.com/jackc/pgconn v1.10.1
