@@ -25,6 +25,7 @@ String Columns
         ISBN10 
         ISBN13 
         Notes 
+        DataSource        
 
 DateTime Column
         PublishedDate
@@ -40,4 +41,5 @@ CONNECTION_STRING=host=123.456.789.123 port=1234 user=dbUser password=dbPassword
 
 - Once the application has successfully connected to the database, you can enter the ISBN of a book and the application will get the corresponding data from the internet. For now, access to the Google API is public so this may not work in the future. 
 - If book data exists, it will show you a summary of the book. It will ask you if you want to save the data or not. 
+- If the book doesn't exist in the Google Books API, it will try to populate data from OpenLibrary API
 - Press "q" to quit the application.
